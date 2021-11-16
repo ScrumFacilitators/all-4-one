@@ -1,4 +1,4 @@
-# all-4-one a cooperative Scrum game
+# All-4-ONE a cooperative Scrum game
 
 Created by Swen-Peter Ekkebus with the help of the Scrum Facilitators. Powered by #play14
 
