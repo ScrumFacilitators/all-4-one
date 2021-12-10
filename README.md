@@ -41,7 +41,7 @@ When all rounds are finished. The team itself can check if their answers are rig
 + [ONLINE] replace voting cards with a 'playing board' for the cards (3 piles: playing, good answers, discard)?
 
 # Change log
-v0.4 Based on online playtesting: fixed 'turn balloon' 1st round, improved language in Q4. Added PDF files of the  hybrid/'zoom' friendly version. With 'stand-up' playing mode and capital letters (to deal with mirrored webcams). Fixed Q4 in pptx files.
+v0.4 Based on online playtesting: fixed 'turn balloon' 1st round, improved language in Q4. Added PDF files of the  hybrid/'zoom' friendly version. With 'stand-up' playing mode and capital letters (to deal with mirrored webcams). Fixed Q4 in pptx files. Updated PPTX file to v0.4
 v0.3 Based on play testing: Added game instruction icons (who reads the question out loud, All-4-one, pull it back), text reviewed by Ziryan Salayi. 
 v0.2 renamed game, added example question (question zero) and instruction cards, added gamified instructions, added QR codes for inpect & adapt round. First play test with Windesheim Students during workshop. Added powerpoint source.
 v0.1 initial version, play tested at #play14 @ Utrecht (https://play14.org/)
