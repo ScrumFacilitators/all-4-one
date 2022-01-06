@@ -29,8 +29,11 @@ When all rounds are finished. The team itself can check if their answers are rig
 
 # Hybrid / 'zoom friendly' version
 👉 https://bit.ly/all-4-one-a
+
 👉 https://bit.ly/all-4-one-b
+
 👉 https://bit.ly/all-4-one-c
+
 👉 https://bit.ly/all-4-one-d
 
 # Future improvements
@@ -41,6 +44,7 @@ When all rounds are finished. The team itself can check if their answers are rig
 + [ONLINE] replace voting cards with a 'playing board' for the cards (3 piles: playing, good answers, discard)?
 
 # Change log
+v0.5 Based on Meetup feedback (https://www.meetup.com/nl-NL/Scrum-Facilitators/events/282323877). Rephrased question 1 into 'What accountability lays at the Product Owner only?'. Fixed answers of question 0 in hybrid version.
 v0.4 Based on online playtesting: fixed 'turn balloon' 1st round, improved language in Q4. Added PDF files of the  hybrid/'zoom' friendly version. With 'stand-up' playing mode and capital letters (to deal with mirrored webcams). Fixed Q4 in pptx files. Updated PPTX file to v0.4
 v0.3 Based on play testing: Added game instruction icons (who reads the question out loud, All-4-one, pull it back), text reviewed by Ziryan Salayi. 
 v0.2 renamed game, added example question (question zero) and instruction cards, added gamified instructions, added QR codes for inpect & adapt round. First play test with Windesheim Students during workshop. Added powerpoint source.
